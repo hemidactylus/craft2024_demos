@@ -40,6 +40,12 @@ or alternatively open the notebooks in Google Colab (links below).
 
 ### Demo 1 ("similarities on a sphere")
 
-In the Jupyter console, open the Demo 1 folder and then run the notebook.
+In the Jupyter console, open the **Demo 1** folder and then run the notebook.
 
-Alternatively you can [run it in Colab](#).
+Alternatively you can [run it in Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo1_similarities_on_a_sphere/Similarities_on_a_sphere.ipynb) (or just [view](demo1_similarities_on_a_sphere/Similarities_on_a_sphere.ipynb) the notebook).
+
+### Demo 2 ("counter/examples")
+
+Open the **Demo 2** folder and run the desired notebook.
+
+A - nearest_spaceport: [colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo2_vectors_counter_examples/A_nearest_spaceport.ipynb), [view in browser](demo2_vectors_counter_examples/A_nearest_spaceport.ipynb).
