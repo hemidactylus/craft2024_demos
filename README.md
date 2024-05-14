@@ -55,3 +55,9 @@ Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/cra
 Open the **Demo 3** folder and run the notebook.
 
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo3_mistyped_philosophers/Mistyped_philosophers.ipynb), or [view in browser](demo3_mistyped_philosophers/Mistyped_philosophers.ipynb).
+
+### Demo 4 ("similar 'products'")
+
+Open the **Demo 4** folder and run the notebook.
+
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo4_similar_products/Similar_products.ipynb), or [view in browser](demo4_similar_products/Similar_products.ipynb).
