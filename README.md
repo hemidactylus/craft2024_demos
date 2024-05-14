@@ -49,3 +49,9 @@ Alternatively you can [run it in Colab](https://colab.research.google.com/github
 Open the **Demo 2** folder and run the notebook.
 
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo2_nearest_spaceport/Nearest_spaceport.ipynb), or [view in browser](demo2_nearest_spaceport/Nearest_spaceport.ipynb).
+
+### Demo 3 ("mistyped philosophers")
+
+Open the **Demo 3** folder and run the notebook.
+
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo3_mistyped_philosophers/Mistyped_philosophers.ipynb), or [view in browser](demo3_mistyped_philosophers/Mistyped_philosophers.ipynb).
