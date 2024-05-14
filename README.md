@@ -44,8 +44,8 @@ In the Jupyter console, open the **Demo 1** folder and then run the notebook.
 
 Alternatively you can [run it in Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo1_similarities_on_a_sphere/Similarities_on_a_sphere.ipynb) (or just [view](demo1_similarities_on_a_sphere/Similarities_on_a_sphere.ipynb) the notebook).
 
-### Demo 2 ("counter/examples")
+### Demo 2 ("nearest spaceport")
 
-Open the **Demo 2** folder and run the desired notebook.
+Open the **Demo 2** folder and run the notebook.
 
-A - nearest_spaceport: [colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo2_vectors_counter_examples/A_nearest_spaceport.ipynb), [view in browser](demo2_vectors_counter_examples/A_nearest_spaceport.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo2_nearest_spaceport/Nearest_spaceport.ipynb), or [view in browser](demo2_nearest_spaceport/Nearest_spaceport.ipynb).
