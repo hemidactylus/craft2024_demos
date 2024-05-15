@@ -61,3 +61,15 @@ Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/cra
 Open the **Demo 4** folder and run the notebook.
 
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo4_similar_products/Similar_products.ipynb), or [view in browser](demo4_similar_products/Similar_products.ipynb).
+
+### Demo 5 ("sort your critters")
+
+Open the **Demo 5** folder and run the notebook.
+
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_multi_vectors/Multi_vectors.ipynb), or [view in browser](demo6_multi_vectors/Multi_vectors.ipynb).
+
+### Demo 6 ("Multi-vector search")
+
+Open the **Demo 6** folder and run the notebook.
+
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_multi_vectors/Multi_vectors.ipynb), or [view in browser](demo6_multi_vectors/Multi_vectors.ipynb).
