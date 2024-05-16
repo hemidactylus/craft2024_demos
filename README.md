@@ -38,6 +38,11 @@ jupyter notebook
 
 or alternatively open the notebooks in Google Colab (links below).
 
+**Note**. Free-tier accounts have a limited number of collections available.
+If you run into an error ("too many indices...") while creating collections on
+Astra DB, try dropping collections from previous demos (actual `drop` method;
+just emptying the contents does not suffice).
+
 ### Demo 1 ("similarities on a sphere")
 
 In the Jupyter console, open the **Demo 1** folder and then run the notebook.
@@ -73,3 +78,9 @@ Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/cra
 Open the **Demo 6** folder and run the notebook.
 
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_multi_vectors/Multi_vectors.ipynb), or [view in browser](demo6_multi_vectors/Multi_vectors.ipynb).
+
+### Demo 7 ("App migration")
+
+Open the **Demo 7** folder and run the notebook.
+
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo7_app_migration/Migrate_app_Chroma_to_Astra.ipynb), or [view in browser](demo7_app_migration/Migrate_app_Chroma_to_Astra.ipynb).
