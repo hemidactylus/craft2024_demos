@@ -73,7 +73,7 @@ Open the **Demo 5** folder and run the notebook.
 
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_multi_vectors/Multi_vectors.ipynb), or [view in browser](demo6_multi_vectors/Multi_vectors.ipynb).
 
-### Demo 6 ("Multi-vector search")
+### Demo 6 ("multi-vector search")
 
 Open the **Demo 6** folder and run the notebook.
 
