@@ -79,8 +79,16 @@ Open the **Demo 6** folder and run the notebook.
 
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_multi_vectors/Multi_vectors.ipynb), or [view in browser](demo6_multi_vectors/Multi_vectors.ipynb).
 
-### Demo 7 ("App migration")
+### Demo 7 ("app migration")
 
 Open the **Demo 7** folder and run the notebook.
 
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo7_app_migration/Migrate_app_Chroma_to_Astra.ipynb), or [view in browser](demo7_app_migration/Migrate_app_Chroma_to_Astra.ipynb).
+
+### Demo 8 ("text embeddings")
+
+Open the **Demo 8** folder and run the notebook.
+
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo8_vector_embeddings/Text_embeddings.ipynb), or [view in browser](demo8_vector_embeddings/Text_embeddings.ipynb).
+
+**Note**: this demo will install additional requirements when run for the first time - an operation which may take a few minutes.
