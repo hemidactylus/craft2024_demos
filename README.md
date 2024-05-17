@@ -92,3 +92,11 @@ Open the **Demo 8** folder and run the notebook.
 Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo8_vector_embeddings/Text_embeddings.ipynb), or [view in browser](demo8_vector_embeddings/Text_embeddings.ipynb).
 
 **Note**: this demo will install additional requirements when run for the first time - an operation which may take a few minutes.
+
+### Demo 9 ("philosophy quotes")
+
+Open the **Demo 9** folder and run the notebook.
+
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo9_RAG_philosophy_quote/Philosophical_Quotes.ipynb), or [view in browser](demo9_RAG_philosophy_quote/Philosophical_Quotes.ipynb).
+
+**Note**: this demo is originally featured in the [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases/cassandra_astradb#rag-with-astra-db-and-cassandra) gallery.
