@@ -6,7 +6,7 @@ for the **Craft 2024** presentation.
 
 ### Python environment
 
-Ensure you are using Python v3.8 - v3.10 (newer versions _may_ work too).
+Ensure you are using Python v3.8 - v3.11 (newer versions _may_ work too).
 
 Working in a virtual environment is suggested for isolation and better control.
 
@@ -26,7 +26,9 @@ and when it's ready grab the _API Endpoint_ and generate a _Token_ for it.
 ### Secrets
 
 Notebooks will ask you for these two secrets. If you're running locally, you can
-copy the `.env.template` file to a new `.env` and set the secrets there.
+copy the `.env.template` file to a new `.env` and set the secrets there to skip
+interactive secret input. A few demos also need an OpenAI API key, which can also
+be set in `.env`.
 
 ## Run the demos
 
@@ -40,8 +42,9 @@ or alternatively open the notebooks in Google Colab (links below).
 
 **Note**. Free-tier accounts have a limited number of collections available.
 If you run into an error ("too many indices...") while creating collections on
-Astra DB, try dropping collections from previous demos (actual `drop` method;
-just emptying the contents does not suffice).
+Astra DB, try dropping collections from previous demos. This means uncommenting
+the actual `drop` method in each notebook's last cell -- just emptying the contents
+with the `delete_all` method does not suffice).
 
 ### Demo 1 ("similarities on a sphere")
 
