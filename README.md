@@ -48,58 +48,58 @@ with the `delete_all` method does not suffice).
 
 ### Demo 1 ("similarities on a sphere")
 
-In the Jupyter console, open the **Demo 1** folder and then run the notebook.
+In the Jupyter console, open and run the **Demo 1** notebook.
 
-Alternatively you can [run it in Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo1_similarities_on_a_sphere/Similarities_on_a_sphere.ipynb) (or just [view](demo1_similarities_on_a_sphere/Similarities_on_a_sphere.ipynb) the notebook).
+Alternatively you can [run it in Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo1_Similarities_on_a_sphere.ipynb) (or just [view](demo1_Similarities_on_a_sphere.ipynb) the notebook).
 
 ### Demo 2 ("nearest spaceport")
 
-Open the **Demo 2** folder and run the notebook.
+Open and run the **Demo 2** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo2_nearest_spaceport/Nearest_spaceport.ipynb), or [view in browser](demo2_nearest_spaceport/Nearest_spaceport.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo2_Nearest_spaceport.ipynb), or [view in browser](demo2_Nearest_spaceport.ipynb).
 
 ### Demo 3 ("mistyped philosophers")
 
-Open the **Demo 3** folder and run the notebook.
+Open and run the **Demo 3** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo3_mistyped_philosophers/Mistyped_philosophers.ipynb), or [view in browser](demo3_mistyped_philosophers/Mistyped_philosophers.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo3_Mistyped_philosophers.ipynb), or [view in browser](demo3_Mistyped_philosophers.ipynb).
 
 ### Demo 4 ("similar 'products'")
 
-Open the **Demo 4** folder and run the notebook.
+Open and run the **Demo 4** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo4_similar_products/Similar_products.ipynb), or [view in browser](demo4_similar_products/Similar_products.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo4_Similar_products.ipynb), or [view in browser](demo4_Similar_products.ipynb).
 
 ### Demo 5 ("sort your critters")
 
-Open the **Demo 5** folder and run the notebook.
+Open and run the **Demo 5** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_multi_vectors/Multi_vectors.ipynb), or [view in browser](demo6_multi_vectors/Multi_vectors.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_Multi_vectors.ipynb), or [view in browser](demo6_Multi_vectors.ipynb).
 
 ### Demo 6 ("multi-vector search")
 
-Open the **Demo 6** folder and run the notebook.
+Open and run the **Demo 6** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_multi_vectors/Multi_vectors.ipynb), or [view in browser](demo6_multi_vectors/Multi_vectors.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_Multi_vectors.ipynb), or [view in browser](demo6_Multi_vectors.ipynb).
 
 ### Demo 7 ("app migration")
 
-Open the **Demo 7** folder and run the notebook.
+Open and run the **Demo 7** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo7_app_migration/Migrate_app_Chroma_to_Astra.ipynb), or [view in browser](demo7_app_migration/Migrate_app_Chroma_to_Astra.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo7_Migrate_app_Chroma_to_Astra.ipynb), or [view in browser](demo7_Migrate_app_Chroma_to_Astra.ipynb).
 
 ### Demo 8 ("text embeddings")
 
-Open the **Demo 8** folder and run the notebook.
+Open and run the **Demo 8** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo8_vector_embeddings/Text_embeddings.ipynb), or [view in browser](demo8_vector_embeddings/Text_embeddings.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo8_Text_embeddings.ipynb), or [view in browser](demo8_Text_embeddings.ipynb).
 
 **Note**: this demo will install additional requirements when run for the first time - an operation which may take a few minutes.
 
 ### Demo 9 ("philosophy quotes")
 
-Open the **Demo 9** folder and run the notebook.
+Open and run the **Demo 9** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo9_RAG_philosophy_quote/Philosophical_Quotes.ipynb), or [view in browser](demo9_RAG_philosophy_quote/Philosophical_Quotes.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo9_Philosophical_Quotes.ipynb), or [view in browser](demo9_Philosophical_Quotes.ipynb).
 
 **Note**: this demo is originally featured in the [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases/cassandra_astradb#rag-with-astra-db-and-cassandra) gallery.
