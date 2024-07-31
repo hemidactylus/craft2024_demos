@@ -74,7 +74,7 @@ Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/cra
 
 Open and run the **Demo 5** notebook.
 
-Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo6_Multi_vectors.ipynb), or [view in browser](demo6_Multi_vectors.ipynb).
+Alternatively: [Colab](https://colab.research.google.com/github/hemidactylus/craft2024_demos/blob/main/demo5_Sort_your_critters.ipynb), or [view in browser](demo5_Sort_your_critters.ipynb).
 
 ### Demo 6 ("multi-vector search")
 
